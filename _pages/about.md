@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>HKUST</a>. Clear Water Bay, Hong Kong.
+subtitle: <a href='https://hkust.edu.hk/'>HKUST</a>. Clear Water Bay, Hong Kong.
 
 profile:
   align: right
