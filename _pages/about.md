@@ -30,7 +30,6 @@ announcements:
 I'm a PhD candidate in Electronic and Computer Engineering at the Hong Kong University of Science and Technology. My research focuses on graph representation tools for signal processing, machine learning, and financial applications. Previously, during my MSc and BSc studies, I worked on compressed sensing and feature engineering, with applications in image processing and speech recognition. My research has been published in leading signal processing venues, including IEEE TSP, ICASSP, and IEEE SPL.
 
 Beyond academia,  I have several years of industry experience in computer vision and deep learning, including algorithm development, implementation, and programming.
-More detailed information can be found in my [CV](assets/pdf/CV_Javaheri_2025.pdf).
 
 
 
