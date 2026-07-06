@@ -27,7 +27,7 @@ announcements:
 # limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in Electronic and Computer Engineering at the Hong Kong University of Science and Technology. My research focuses on graph representation tools for signal processing, machine learning, and financial applications. Previously, during my MSc and BSc studies, I worked on compressed sensing and feature engineering, with applications in image processing and speech recognition. My research has been published in leading signal processing venues, including IEEE TSP, ICASSP, and IEEE SPL.
+I'm a Postdoctoral researcher at the department of Information Science and Engineering at KTH Royal Institute of Technology. I obtained my PhD in Electronic and Computer Engineering from the Hong Kong University of Science and Technology. My research focuses on graph representation tools for signal processing, machine learning, and financial engineering. Previously, during my MSc and BSc studies, I worked on compressed sensing and feature engineering, with applications in image processing and speech recognition. My research has been published in leading signal processing venues, including IEEE TSP, ICASSP, and IEEE SPL.
 
 Beyond academia,  I have several years of industry experience in computer vision and deep learning, including algorithm development, implementation, and programming.
 
